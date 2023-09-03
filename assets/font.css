@@ -1,0 +1,11 @@
+@font-face {
+font-family: "StandFallen";
+src: url("./fonts/StandFallen.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+.levani-font {
+    font-family: "StandFallen" !important;
+    text-transform: none !important;
+}
